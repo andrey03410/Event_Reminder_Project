@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="events">EVENTS</string>
+    <string name="holidays">HOLIDAYS</string>
+    <string name="profile">PROFILE</string>
+    <string name="menu_events">Events</string>
+    <string name="menu_holidays">Holidays</string>
+    <string name="menu_profile">Profile</string>
+</resources>
